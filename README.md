@@ -3,6 +3,6 @@
 -html
 -css
 -js
-библиотеки:
+# библиотеки:
 -bootstrap v5
 -swiper slider js
